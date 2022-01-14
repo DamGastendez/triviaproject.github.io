@@ -1,3 +1,5 @@
+<!-- PROYECTO TRIVIA - LABORATORIA-->
+
 # triviaproject.github.io
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +24,7 @@
     <h3><p> Escribe tu nombre: </p></h3>
     <form >
       
-      <!--linea de codigo para que este en Mayuscula lo que se ingrerse en el cuadro de texto-->
+  <!--linea de codigo para que este en Mayuscula lo que se ingrerse en el cuadro de texto-->
       
       <input type="text" class="normal" 
        name="Name" id="nameUser" size="20" maxlength="20" 
@@ -123,7 +125,9 @@
 
     </div>
 </section>
+	
 <!--Segunda OPCION => TERROR -->
+	
 <section class="threeScreen"  id="threeScreen" > 
   <div class="boxSecondScreen3">
     <form name="alternative">
